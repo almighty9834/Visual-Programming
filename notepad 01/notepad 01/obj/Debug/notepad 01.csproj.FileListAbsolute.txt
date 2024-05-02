@@ -1,0 +1,9 @@
+E:\consol application\notepad 01\notepad 01\bin\Debug\notepad 01.exe.config
+E:\consol application\notepad 01\notepad 01\bin\Debug\notepad 01.exe
+E:\consol application\notepad 01\notepad 01\bin\Debug\notepad 01.pdb
+E:\consol application\notepad 01\notepad 01\obj\Debug\notepad 01.csprojResolveAssemblyReference.cache
+E:\consol application\notepad 01\notepad 01\obj\Debug\notepad_01.Form1.resources
+E:\consol application\notepad 01\notepad 01\obj\Debug\notepad_01.Properties.Resources.resources
+E:\consol application\notepad 01\notepad 01\obj\Debug\notepad 01.csproj.GenerateResource.Cache
+E:\consol application\notepad 01\notepad 01\obj\Debug\notepad 01.exe
+E:\consol application\notepad 01\notepad 01\obj\Debug\notepad 01.pdb
