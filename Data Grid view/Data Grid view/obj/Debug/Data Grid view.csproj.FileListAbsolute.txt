@@ -1,0 +1,9 @@
+E:\consol application\Data Grid view\Data Grid view\bin\Debug\Data Grid view.exe.config
+E:\consol application\Data Grid view\Data Grid view\bin\Debug\Data Grid view.exe
+E:\consol application\Data Grid view\Data Grid view\bin\Debug\Data Grid view.pdb
+E:\consol application\Data Grid view\Data Grid view\obj\Debug\Data Grid view.csprojResolveAssemblyReference.cache
+E:\consol application\Data Grid view\Data Grid view\obj\Debug\Data_Grid_view.Form1.resources
+E:\consol application\Data Grid view\Data Grid view\obj\Debug\Data_Grid_view.Properties.Resources.resources
+E:\consol application\Data Grid view\Data Grid view\obj\Debug\Data Grid view.csproj.GenerateResource.Cache
+E:\consol application\Data Grid view\Data Grid view\obj\Debug\Data Grid view.exe
+E:\consol application\Data Grid view\Data Grid view\obj\Debug\Data Grid view.pdb
