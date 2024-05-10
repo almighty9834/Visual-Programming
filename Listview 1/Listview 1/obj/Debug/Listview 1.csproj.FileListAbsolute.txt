@@ -1,0 +1,9 @@
+E:\consol application\Listview 1\Listview 1\bin\Debug\Listview 1.exe.config
+E:\consol application\Listview 1\Listview 1\bin\Debug\Listview 1.exe
+E:\consol application\Listview 1\Listview 1\bin\Debug\Listview 1.pdb
+E:\consol application\Listview 1\Listview 1\obj\Debug\Listview 1.csprojResolveAssemblyReference.cache
+E:\consol application\Listview 1\Listview 1\obj\Debug\Listview_1.Form1.resources
+E:\consol application\Listview 1\Listview 1\obj\Debug\Listview_1.Properties.Resources.resources
+E:\consol application\Listview 1\Listview 1\obj\Debug\Listview 1.csproj.GenerateResource.Cache
+E:\consol application\Listview 1\Listview 1\obj\Debug\Listview 1.exe
+E:\consol application\Listview 1\Listview 1\obj\Debug\Listview 1.pdb
