@@ -1,0 +1,10 @@
+E:\consol application\container Control\container Control\bin\Debug\container Control.exe.config
+E:\consol application\container Control\container Control\bin\Debug\container Control.exe
+E:\consol application\container Control\container Control\bin\Debug\container Control.pdb
+E:\consol application\container Control\container Control\obj\Debug\container Control.csprojResolveAssemblyReference.cache
+E:\consol application\container Control\container Control\obj\Debug\container_Control.Form1.resources
+E:\consol application\container Control\container Control\obj\Debug\container_Control.Properties.Resources.resources
+E:\consol application\container Control\container Control\obj\Debug\container Control.csproj.GenerateResource.Cache
+E:\consol application\container Control\container Control\obj\Debug\container Control.exe
+E:\consol application\container Control\container Control\obj\Debug\container Control.pdb
+E:\consol application\container Control\container Control\obj\Debug\container_Control.Form2.resources
