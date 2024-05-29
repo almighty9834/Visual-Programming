@@ -1,0 +1,8 @@
+E:\consol application\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+E:\consol application\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+E:\consol application\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csprojResolveAssemblyReference.cache
+E:\consol application\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+E:\consol application\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+E:\consol application\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.Cache
+E:\consol application\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+E:\consol application\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
